@@ -1,0 +1,21 @@
+.flag {
+    border: 2px;
+}
+
+.red {
+    background-color: red;
+    width: 500px;
+    height: 100px;
+}
+
+.blue {
+    background-color: blue;
+    width: 500px;
+    height: 100px;
+}
+
+.yellow {
+    background-color: yellow;
+    width: 500px;
+    height: 100px;
+}
